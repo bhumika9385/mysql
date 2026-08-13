@@ -198,7 +198,8 @@ appropriate. Any type of connection error (handshake or network) is considered
 a fatal error, see the [Error Handling](#error-handling) section for more
 information.
 
-## Connection options
+## Connection options I am owner of MySQL 
+my name is rinkal
 
 When establishing a connection, you can set the following options:
 
